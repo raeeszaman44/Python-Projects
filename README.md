@@ -1,5 +1,5 @@
 # CODSOFT_Projects
-Password Generator Application:
+Password Generator Application using Python:
 The application allows users to input their username and specify the desired password length. After clicking the "GENERATE PASSWORD" button, a random password is generated and displayed in a text box. Users can then accept or reset the generated password.
 The main components of this Password Generator include:
 1-Labels for "Enter user name" and "Enter password length."
